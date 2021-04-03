@@ -12,7 +12,7 @@
   "author": "Fuzail Ahmed",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "yargs": "^13.2.2"
   }
 }
